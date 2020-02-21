@@ -1,5 +1,9 @@
 # AboutME - Free HTML Responsive Website Template for Online Portfolio/Resume/Profile
 ----------------------------------
+
+<a href="https://designdrastic.com/template/aboutme-classic-portfolio-template"><strong>View Post</strong></a><br />
+<a href="https://designdrastic.github.io/AboutME/"><strong>View Demo</strong></a><br />
+
 # Terms of Use
 
   - The offered resources can be used on any personal projects as-is format.
