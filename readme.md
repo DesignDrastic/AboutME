@@ -4,6 +4,8 @@
 <a href="https://designdrastic.com/template/aboutme-classic-portfolio-template"><strong>View Post</strong></a><br />
 <a href="https://designdrastic.github.io/AboutME/"><strong>View Demo</strong></a><br />
 
+![Demo](/1560151130-AboutME-tiny.png)
+
 # Terms of Use
 
   - The offered resources can be used on any personal projects as-is format.
